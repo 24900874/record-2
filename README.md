@@ -10,7 +10,7 @@ To write a python program to find the rank of a matrix
 Prepare the lists from each linear equations and assign in np.array()
 ### step3:
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
-Step 4:
+### Step 4:
 End the program
  
 ## Program:
